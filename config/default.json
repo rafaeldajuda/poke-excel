@@ -1,0 +1,11 @@
+{
+    "api": {
+        "port": 3000
+    },
+    "database": {
+        "base_url": "localhost",
+        "database_name": "pokeexcel",
+        "username": "root",
+        "password": "admin"
+    }
+}
